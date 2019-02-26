@@ -1,0 +1,39 @@
+/* DOCUMENT INFORMATION
+    -Document page nos jeux
+    -version : 1.0.0
+    -author : lucie
+*/
+
+/* FONTS
+    -default : Noto Sans', sans-serif
+    -h1 :'Press Start 2P', cursive
+
+/* GLOBAL
+===================================*/
+
+html{
+    background-color: #fff;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* HEADER
+===================================*/
+
+header{
+    background-image: linear-gradient(rgba(40, 14, 237, 0.37), rgba(12, 211, 247, 0.4)),url(../images/arcade-neon-bleue.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 70vh;
+}
+.page-title{
+    position: absolute;
+    top:40%;
+    color: #fff;
+    text-align: left;
+}
+#bienvenue{
+    font-size: 700%;
+}
