@@ -37,3 +37,39 @@ header{
 #bienvenue{
     font-size: 700%;
 }
+
+/* RETOUR
+===================================*/
+.boutonretour{
+    margin-top: 100px;
+}
+.retour {
+    border: 2px #280eed solid;
+    background-color: #280eed;
+    border-radius: 30px;
+    padding: 20px 30px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    left:500px;
+    bottom: 10px;
+}
+
+.retour:hover{
+    color: #fff;
+}
+
+
+
+/* GALAGA
+===================================*/
+
+.galaga{
+    margin-top: 100px;
+    background-color: black;
+}
+
+.jeugalaga{
+    border: none;
+   
+}
