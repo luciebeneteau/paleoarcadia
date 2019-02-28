@@ -58,14 +58,24 @@ header{
 .retour:hover{
     color: #fff;
 }
-
+.arcade-bouton{
+    border: none;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    
+}
+.bouton-arcade{
+    margin-bottom: 100px;
+    padding: 50px 0 200px 0;
+}
 
 
 /* GALAGA
 ===================================*/
 
 .galaga{
-    margin-top: 100px;
+    margin-top: 10px;
     background-color: black;
 }
 
