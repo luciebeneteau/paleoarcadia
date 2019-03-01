@@ -166,6 +166,8 @@ header{
 .jeux{
     background-image: url(../images/arcade-ecran.jpg);
     background-size: cover;
+    border-radius: 50px; 
+    margin-bottom: 20px;
     
    
 }
